@@ -1,0 +1,105 @@
+﻿  Controller.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4311: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4302: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\event.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\special_keys.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(117): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(194): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\fvec.h(433): warning C4305: 'return': 'double'에서 'real_t'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\fvec.h(885): warning C4305: 'return': 'double'에서 'real_t'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\fvec.h(1278): warning C4305: 'return': 'double'에서 'real_t'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  HologramRender.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4311: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4302: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(117): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(194): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\fvec.h(433): warning C4305: 'return': 'double'에서 'real_t'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\fvec.h(885): warning C4305: 'return': 'double'에서 'real_t'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\fvec.h(1278): warning C4305: 'return': 'double'에서 'real_t'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(118): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(119): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(120): warning C4267: '-=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(217): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(123): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(126): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(129): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(465): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(466): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(670): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(765): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(766): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(767): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\hologramrender.cpp(768): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  ModelRender.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4311: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4302: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(117): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(194): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(242): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(243): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(244): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(118): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(119): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(120): warning C4267: '-=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(217): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(225): warning C4244: 'return': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\modelrender.cpp(310): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\modelrender.cpp(311): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\modelrender.cpp(312): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\modelrender.cpp(313): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  OglRenderShader.cpp
+  View.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4311: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4302: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\font.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\event.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\special_keys.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\view.cpp(83): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  View3D.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4311: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4302: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\event.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\special_keys.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\font.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\view_controller\src\view3d.cpp(76): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  LINK : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+  view_controller.vcxproj -> C:\Users\KETI-Sparrow\Documents\WolfsenLab_Point\MultiNode3\HologramRealTime_MultiNode\HologramInteractive\..\lib\view_controller.lib

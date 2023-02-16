@@ -1,0 +1,9 @@
+hologram				// RESULT_FOLDER
+5.32e-7					// WAVELENGTH
+600					// PIXEL_NUMBER_X 
+600					// PIXEL_NUMBER_Y 
+4.3e-6					// PIXEL_PITCH_X
+4.3e-6					// PIXEL_PITCH_Y
+-1					// OFFSET : -1 : auto calculate => offset_ = kBaseLen(300.0) * ppx_ * kDefaultDistance + (pnx_ * ppx_) / 2.0;  0.01806
+0					// Flag : save source files ( PointCloud_Src_Depth.jpg, PointCloud_Src_Color.jpg, PointCloud_cgh.jpg)
+0					// Flag : save output files ( PointCloud_cgh_real.jpg, PointCloud_cgh_img.jpg, PointCloud_recon.jpg)

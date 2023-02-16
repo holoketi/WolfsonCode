@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Moc'ing ndisplay_controller.h...
+  moc_ndisplay_controller.cpp
+  ndisplay_controller.cpp
+  Generating Code...
+  ndisplay_controller.vcxproj -> E:\WorkingFiles\DEV\Camera_Projector\CameraSide\camera_main\..\lib\ndisplay_controller.lib

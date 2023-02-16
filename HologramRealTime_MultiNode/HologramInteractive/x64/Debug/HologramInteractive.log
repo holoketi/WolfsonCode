@@ -1,0 +1,5 @@
+﻿  uic holograminteractive.ui
+  holograminteractive.cpp
+  main.cpp
+  moc_holograminteractive.cpp
+  HologramInteractive.vcxproj -> D:\00_Working\Hologram_Interactive\HologramInteractive\HologramInteractive\x64\Debug\HologramInteractive.exe

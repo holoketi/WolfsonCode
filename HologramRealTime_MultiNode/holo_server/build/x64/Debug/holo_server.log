@@ -1,0 +1,16 @@
+﻿  Moc'ing ..\hologram_server.h...
+  Moc'ing ..\renderwidget.h...
+  Moc'ing ..\clientsocket.h...
+  clientsocket.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\holo_server\src\clientsocket.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'holo_server/clientsocket.h': No such file or directory
+  hologram_server.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\holo_server\src\hologram_server.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'holo_server/clientsocket.h': No such file or directory
+  main.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\holo_server\src\main.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'holo_server/renderwidget.h': No such file or directory
+  renderwidget.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\holo_server\src\renderwidget.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'holo_server/renderwidget.h': No such file or directory
+  moc_clientsocket.cpp
+  moc_hologram_server.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\holo_server\hologram_server.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'Hologram/HologramGenerator.h': No such file or directory
+  moc_renderwidget.cpp
+  코드를 생성하고 있습니다...

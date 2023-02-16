@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/HologramInteractive">
+        <file>Resources/hologram_generation.png</file>
+        <file>Resources/hologram_reconstruction.png</file>
+        <file>Resources/open.ico</file>
+    </qresource>
+</RCC>

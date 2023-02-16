@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  main.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\model\rel_mem_manager.h(118): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\model\rel_mem_manager.h(119): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\model\rel_mem_manager.h(120): warning C4267: '-=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\model\rel_mem_manager.h(217): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\graphics\fvec.h(433): warning C4305: 'return': 'double'에서 'real_t'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\graphics\fvec.h(885): warning C4305: 'return': 'double'에서 'real_t'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\graphics\fvec.h(1278): warning C4305: 'return': 'double'에서 'real_t'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\keti_pointtranslator\main.cpp(62): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\keti_pointtranslator\main.cpp(66): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\keti_pointtranslator\main.cpp(79): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\keti_pointtranslator\main.cpp(173): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode_auth\hologramrealtime_multinode\keti_pointtranslator\main.cpp(174): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 240 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  KETI_PointTranslator.vcxproj -> C:\Users\KETI-Sparrow\Documents\WolfsenLab_Point\MultiNode_Auth\HologramRealTime_MultiNode\KETI_PointTranslator\..\bin\KETI_PointTranslator.exe

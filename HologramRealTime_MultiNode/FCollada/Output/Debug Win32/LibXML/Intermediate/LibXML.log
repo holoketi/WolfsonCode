@@ -1,0 +1,35 @@
+﻿Build started 2011-01-17 오전 9:08:18.
+     1>Project "O:\wolfsonlab\FCollada\LibXML\LibXML.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "O:\wolfsonlab\FCollada\LibXML\../Output/Debug Win32/LibXML/Intermediate\LibXML.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Iinclude /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D LIBXML_STATIC /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"O:\wolfsonlab\FCollada\LibXML\../Output/Debug Win32/LibXML/Intermediate\\" /Fd"O:\wolfsonlab\FCollada\LibXML\../Output/Debug Win32/LibXML/Intermediate\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt c14n.c catalog.c chvalid.c debugXML.c dict.c DOCBparser.c encoding.c entities.c error.c globals.c hash.c HTMLparser.c HTMLtree.c legacy.c list.c nanoftp.c nanohttp.c parser.c parserInternals.c pattern.c relaxng.c SAX.c SAX2.c threads.c tree.c uri.c valid.c xinclude.c xlink.c xmlcatalog.c xmlIO.c xmlmemory.c xmlmodule.c xmlreader.c xmlregexp.c xmlsave.c xmlstring.c xmlunicode.c xmlwriter.c
+         xmlwriter.c
+         xmlunicode.c
+         xmlstring.c
+         xmlsave.c
+         xmlregexp.c
+         xmlreader.c
+         xmlmodule.c
+         xmlmemory.c
+         xmlIO.c
+         xmlcatalog.c
+         xlink.c
+         xinclude.c
+         valid.c
+         uri.c
+         tree.c
+         threads.c
+         SAX2.c
+         SAX.c
+         relaxng.c
+         pattern.c
+         Generating Code...
+         Compiling...
+         parserInternals.c
+         parser.c
+     1>Done Building Project "O:\wolfsonlab\FCollada\LibXML\LibXML.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:13.70

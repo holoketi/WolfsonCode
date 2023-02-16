@@ -1,0 +1,20 @@
+﻿Build started 2015-06-23 오전 8:46:35.
+     1>Project "P:\koon_pro\Koon64\material\build\material.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\material.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\GMaterial.cpp ..\src\GTexture.cpp ..\src\MaterialDatabase.cpp ..\src\TextureDatabase.cpp
+         TextureDatabase.cpp
+     1>p:\koon_pro\koon64\material\src\texturedatabase.cpp(1): fatal error C1083: Cannot open include file: 'material/TextureDatabase.h': No such file or directory
+         MaterialDatabase.cpp
+     1>p:\koon_pro\koon64\material\src\materialdatabase.cpp(1): fatal error C1083: Cannot open include file: 'material/MaterialDatabase.h': No such file or directory
+         GTexture.cpp
+     1>p:\koon_pro\koon64\material\src\gtexture.cpp(1): fatal error C1083: Cannot open include file: 'material/GTexture.h': No such file or directory
+         GMaterial.cpp
+     1>p:\koon_pro\koon64\material\src\gmaterial.cpp(1): fatal error C1083: Cannot open include file: 'material/GMaterial.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "P:\koon_pro\Koon64\material\build\material.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.19

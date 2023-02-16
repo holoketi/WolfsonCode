@@ -1,0 +1,68 @@
+﻿Build started 2016-10-20 오후 1:25:24.
+     1>Project "C:\Users\cregeo\Desktop\DEV\sphere_world\model\build\model.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>InitializeBuildStatus:
+         Touching "Release\model.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\cregeo\Desktop\DEV\sphere_world\startup\/.. /IC:\Users\cregeo\Desktop\DEV\sphere_world\startup\/../external_include /IC:\Users\cregeo\Desktop\DEV\sphere_world\startup\..\FCollada /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\ColladaLoad.cpp
+         ColladaLoad.cpp
+     1>C:\Users\cregeo\Desktop\DEV\sphere_world\model/GraphicsScene.h(253): warning C4018: '<' : signed/unsigned mismatch
+     1>C:\Users\cregeo\Desktop\DEV\sphere_world\external_include\IL/il.h(447): warning C4005: 'DEPRECATED' : macro redefinition
+                 C:\Users\cregeo\Desktop\DEV\sphere_world\FCollada\FUtils/Platforms.h(236) : see previous definition of 'DEPRECATED'
+     1>C:\Users\cregeo\Desktop\DEV\sphere_world\model/rel_mem_manager.h(225): warning C4244: 'return' : conversion from 'const unsigned __int64' to 'int', possible loss of data
+     1>..\src\ColladaLoad.cpp(73): warning C4244: 'argument' : conversion from 'const real' to 'float', possible loss of data
+     1>..\src\ColladaLoad.cpp(115): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\swprintf.inl(85) : see declaration of 'swprintf'
+     1>..\src\ColladaLoad.cpp(129): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(162): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\swprintf.inl(85) : see declaration of 'swprintf'
+     1>..\src\ColladaLoad.cpp(176): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(214): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(227): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\swprintf.inl(85) : see declaration of 'swprintf'
+     1>..\src\ColladaLoad.cpp(245): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(256): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(319): warning C4244: 'argument' : conversion from 'const real' to 'float', possible loss of data
+     1>..\src\ColladaLoad.cpp(325): warning C4244: 'argument' : conversion from 'const real' to 'float', possible loss of data
+     1>..\src\ColladaLoad.cpp(335): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(347): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(389): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(400): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(435): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(447): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(496): warning C4244: 'argument' : conversion from 'real' to 'float', possible loss of data
+     1>..\src\ColladaLoad.cpp(497): warning C4244: 'argument' : conversion from 'real' to 'float', possible loss of data
+     1>..\src\ColladaLoad.cpp(498): warning C4244: 'argument' : conversion from 'real' to 'float', possible loss of data
+     1>..\src\ColladaLoad.cpp(506): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(512): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(536): warning C4244: 'argument' : conversion from 'real' to 'float', possible loss of data
+     1>..\src\ColladaLoad.cpp(537): warning C4244: 'argument' : conversion from 'real' to 'float', possible loss of data
+     1>..\src\ColladaLoad.cpp(538): warning C4244: 'argument' : conversion from 'real' to 'float', possible loss of data
+     1>..\src\ColladaLoad.cpp(544): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(550): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(593): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(608): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\swprintf.inl(85) : see declaration of 'swprintf'
+     1>..\src\ColladaLoad.cpp(623): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(703): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(712): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(733): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(754): warning C4018: '<' : signed/unsigned mismatch
+     1>..\src\ColladaLoad.cpp(775): warning C4018: '<' : signed/unsigned mismatch
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\cregeo\Desktop\DEV\sphere_world\startup\/../lib\model.lib" /NOLOGO /MACHINE:X64 /LTCG Release\ColladaLoad.obj
+         Release\GFrame.obj
+         Release\GraphicsScene.obj
+         Release\ImportedModel.obj
+         Release\kernel.obj
+         Release\Matrix4.obj
+         Release\MemManager.obj
+         Release\Quaternion.obj
+         Release\rel_mem_manager.obj
+         Release\sync_gpu_memory.obj
+     1>Release\ColladaLoad.obj : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
+     1>Done Building Project "C:\Users\cregeo\Desktop\DEV\sphere_world\model\build\model.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.60

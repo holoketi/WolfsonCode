@@ -1,0 +1,1184 @@
+﻿  StdAfx.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmvector3.h(107): warning C4458: 'x' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmvector3.h(31): note: 'FMVector3::x' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmvector3.h(107): warning C4458: 'y' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmvector3.h(32): note: 'FMVector3::y' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmvector3.h(107): warning C4458: 'z' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmvector3.h(33): note: 'FMVector3::z' 선언을 참조하십시오.
+  FAXAnimationImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdanimation.h(98): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdanimationclip.h(115): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(86): note: 'FCDEntity::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxanimationimport.cpp(318): warning C4456: 'curveCount' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxanimationimport.cpp(89): note: 'curveCount' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxanimationimport.cpp(326): warning C4456: 'curveCount' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxanimationimport.cpp(89): note: 'curveCount' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXCameraImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXControllerImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXEmitterImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXEntityImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdexternalreferencemanager.h(85): warning C4458: 'document' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobject.h(49): note: 'FCDObject::document' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXForceFieldImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXGeometryImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(251): warning C4458: 'sources' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(62): note: 'FCDGeometryMesh::sources' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrypolygons.h(337): warning C4458: 'inputs' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrypolygons.h(87): note: 'FCDGeometryPolygons::inputs' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXImportLinking.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdanimation.h(98): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdscenenode.h(219): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(251): warning C4458: 'sources' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(62): note: 'FCDGeometryMesh::sources' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXInstanceImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(251): warning C4458: 'sources' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(62): note: 'FCDGeometryMesh::sources' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrypolygons.h(337): warning C4458: 'inputs' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrypolygons.h(87): note: 'FCDGeometryPolygons::inputs' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdmaterialinstance.h(211): warning C4458: 'semantic' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdmaterialinstance.h(110): note: 'FCDMaterialInstance::semantic' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdscenenode.h(219): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxinstanceimport.cpp(401): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxinstanceimport.cpp(393): note: 'i' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxinstanceimport.cpp(410): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxinstanceimport.cpp(393): note: 'i' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXLightImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXMaterialImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXPhysicsImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxphysicsimport.cpp(220): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxphysicsimport.cpp(236): warning C4456: 'it' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxphysicsimport.cpp(232): note: 'it' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXSceneImport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdscenenode.h(219): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxsceneimport.cpp(136): warning C4457: 'node' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxsceneimport.cpp(104): note: 'node' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxsceneimport.cpp(148): warning C4457: 'node' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxsceneimport.cpp(104): note: 'node' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXAnimationExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdanimation.h(98): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdanimationclip.h(115): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(86): note: 'FCDEntity::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxanimationexport.cpp(119): warning C4456: 'curveCount' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxanimationexport.cpp(36): note: 'curveCount' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxanimationexport.cpp(541): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxanimationexport.cpp(537): note: 'i' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXCameraExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXControllerExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxcontrollerexport.cpp(71): warning C4456: 'i' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\faxcontrollerexport.cpp(68): note: 'i' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXEmitterExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXEntityExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXForceFieldExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXGeometryExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(251): warning C4458: 'sources' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(62): note: 'FCDGeometryMesh::sources' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrypolygons.h(337): warning C4458: 'inputs' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrypolygons.h(87): note: 'FCDGeometryPolygons::inputs' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  FAXInstanceExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdmaterialinstance.h(211): warning C4458: 'semantic' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdmaterialinstance.h(110): note: 'FCDMaterialInstance::semantic' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdscenenode.h(219): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXLightExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXMaterialExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXPhysicsExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdscenenode.h(219): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXSceneExport.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdscenenode.h(219): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  FAXColladaParser.cpp
+  FAXColladaWriter.cpp
+  FArchiveXML.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(167): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(199): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(201): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(202): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(132): note: 'FCDEType::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(326): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(333): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(335): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(336): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(343): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(352): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(398): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(415): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(416): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(417): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdextra.h(227): note: 'FCDENode::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdmaterialinstance.h(211): warning C4458: 'semantic' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdmaterialinstance.h(110): note: 'FCDMaterialInstance::semantic' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdexternalreferencemanager.h(85): warning C4458: 'document' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobject.h(49): note: 'FCDObject::document' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(251): warning C4458: 'sources' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrymesh.h(62): note: 'FCDGeometryMesh::sources' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrypolygons.h(337): warning C4458: 'inputs' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdgeometrypolygons.h(87): note: 'FCDGeometryPolygons::inputs' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdanimation.h(98): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdanimationclip.h(115): warning C4458: 'name' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdentity.h(86): note: 'FCDEntity::name' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdscenenode.h(219): warning C4458: 'daeId' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdobjectwithid.h(42): note: 'FCDObjectWithId::daeId' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\farchivexml.cpp(651): warning C4456: 'it' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcolladaplugins\farchivexml\farchivexml.cpp(630): note: 'it' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(540): warning C4457: 'it' 선언은 함수 매개 변수를 숨깁니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(490): note: 'it' 선언을 참조하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(491): note: 클래스 템플릿 멤버 함수 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(486): note: 컴파일 중인 함수 템플릿 인스턴스화 'void fm::tree<_Kty,_Ty>::erase(const fm::tree<_Kty,_Ty>::iterator &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fmath\fmtree.h(685): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::tree<_Kty,_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Kty=FCDExtra *,
+              _Ty=FCDExtra *
+          ]
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\fcdocument\fcdocument.h(118): note: 컴파일 중인 클래스 템플릿 인스턴스화 'fm::map<FCDExtra *,FCDExtra *>'에 대한 참조를 확인하세요.
+  코드를 생성하고 있습니다...
+  FArchiveXML.vcxproj -> C:\Users\KETI-Sparrow\Documents\WolfsenLab_Point\MultiNode3\HologramRealTime_MultiNode\FColladaPlugins\FArchiveXML\..\..\lib\FArchiveXML.lib

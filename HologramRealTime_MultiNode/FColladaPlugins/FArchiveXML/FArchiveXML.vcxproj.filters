@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Importer">
+      <UniqueIdentifier>{cbbae935-d248-4e39-80fa-3b5bac877bcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{b3e32e08-5781-4228-8d16-564333349c73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Helpers">
+      <UniqueIdentifier>{162463ec-5bff-4725-ac24-66c777153063}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FAXAnimationImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXCameraImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXControllerImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXEmitterImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXEntityImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXForceFieldImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXGeometryImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXImportLinking.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXInstanceImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXLightImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXMaterialImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXPhysicsImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXSceneImport.cpp">
+      <Filter>Importer</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXAnimationExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXCameraExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXControllerExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXEmitterExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXEntityExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXForceFieldExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXGeometryExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXInstanceExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXLightExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXMaterialExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXPhysicsExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXSceneExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXColladaParser.cpp">
+      <Filter>Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="FAXColladaWriter.cpp">
+      <Filter>Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="FArchiveXML.cpp" />
+    <ClCompile Include="StdAfx.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FAXColladaParser.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="FAXColladaWriter.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="FAXStructures.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="FArchiveXML.h" />
+    <ClInclude Include="StdAfx.h" />
+  </ItemGroup>
+</Project>

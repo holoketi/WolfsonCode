@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.InvalidPlatform.Targets(21,7): error MSB8006: 'graphics.vcxproj' 프로젝트에 대한 플랫폼이 잘못되었습니다(플랫폼='Itanium'). 이 오류는 일부 기타 프로젝트가 이 프로젝트에 대한 프로젝트 간 참조를 따르려고 할 경우, 이 프로젝트가 언로드되었거나 솔루션에 포함되어 있지 않은 경우, 그리고 참조하는 프로젝트가 동일하거나 동등한 플랫폼을 사용하여 빌드되지 않은 경우에도 표시될 수 있습니다.

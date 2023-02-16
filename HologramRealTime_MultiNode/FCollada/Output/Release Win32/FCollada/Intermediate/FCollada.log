@@ -1,0 +1,323 @@
+﻿Build started 2012-08-03 오후 3:29:30.
+     1>Project "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\FCollada.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCollada.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\wolfsonlab\Desktop\Concept3D\FCollada\ /IC:\Users\wolfsonlab\Desktop\Concept3D\FCollada\LibXML/include /nologo /W4 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCollada.pch" /Fo"C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\\" /Fd"C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCollada.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\wolfsonlab\Desktop\Concept3D\FCollada\ /IC:\Users\wolfsonlab\Desktop\Concept3D\FCollada\LibXML/include /nologo /W4 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _VC80_UPGRADE=0x0710 /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\\" /Fd"C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCollada.pdb" /Gd /TP /analyze- /errorReport:prompt FMath\FMAllocator.cpp FMath\FMArrayTest.cpp FMath\FMTreeTest.cpp FMath\FMColor.cpp FMath\FMInterpolation.cpp FMath\FMRandom.cpp FMath\FMVector3.cpp FMath\FMVolume.cpp FMath\FMAngleAxis.cpp FMath\FMLookAt.cpp FMath\FMSkew.cpp FMath\FMMatrix33.cpp FMath\FMMatrix44.cpp FMath\FMQuaternion.cpp FMath\FMQuaternionTest.cpp FUtils\FUDaeEnum.cpp FUtils\FUUri.cpp FUtils\FUCrc32.cpp FUtils\FUCrc32Test.cpp FUtils\FUAssert.cpp FUtils\FUDebug.cpp FUtils\FUTestBed.cpp FUtils\FUPluginManager.cpp FUtils\FUFile.cpp FUtils\FUFileManager.cpp FUtils\FUFileManagerTest.cpp FUtils\FULogFile.cpp FUtils\FUParameter.cpp FUtils\FUEventTest.cpp FUtils\FUFunctorTest.cpp FUtils\FUObject.cpp FUtils\FUObjectTest.cpp FUtils\FUObjectType.cpp FUtils\FUParameterizable.cpp FUtils\FUTracker.cpp FUtils\FUStringBuilder.cpp FUtils\FUStringBuilderTest.cpp FUtils\FUStringConversion.cpp FUtils\FUStringConversionTest.cpp FUtils\FUStringTest.cpp FUtils\FUUniqueStringMap.cpp FUtils\FUUniqueStringMapTest.cpp FUtils\FUBoundingBox.cpp FUtils\FUBoundingSphere.cpp FUtils\FUBoundingTest.cpp FUtils\FUDateTime.cpp FUtils\FUError.cpp FUtils\FUErrorLog.cpp FUtils\FUXmlDocument.cpp FUtils\FUXmlParser.cpp FUtils\FUXmlWriter.cpp FUtils\FUBase64.cpp FUtils\FUCriticalSection.cpp FUtils\FUSemaphore.cpp FUtils\FUSynchronizableObject.cpp FUtils\FUThread.cpp FCDocument\FCDControllerInstance.cpp FCDocument\FCDEmitterInstance.cpp FCDocument\FCDEntityInstance.cpp FCDocument\FCDGeometryInstance.cpp FCDocument\FCDMaterialInstance.cpp FCDocument\FCDPhysicsForceFieldInstance.cpp FCDocument\FCDPhysicsModelInstance.cpp FCDocument\FCDPhysicsRigidBodyInstance.cpp FCDocument\FCDPhysicsRigidConstraintInstance.cpp FCDocument\FCDLibrary.cpp FCDocument\FCDAnimation.cpp FCDocument\FCDAnimationChannel.cpp FCDocument\FCDAnimationClip.cpp FCDocument\FCDAnimationClipTools.cpp FCDocument\FCDAnimationCurve.cpp FCDocument\FCDAnimationCurveTools.cpp FCDocument\FCDAnimationKey.cpp FCDocument\FCDAnimationMultiCurve.cpp FCDocument\FCDAnimated.cpp FCDocument\FCDParameterAnimatable.cpp FCDocument\FCDGeometry.cpp FCDocument\FCDGeometryMesh.cpp FCDocument\FCDGeometryNURBSSurface.cpp FCDocument\FCDGeometryPolygons.cpp FCDocument\FCDGeometryPolygonsInput.cpp FCDocument\FCDGeometryPolygonsTools.cpp FCDocument\FCDGeometrySource.cpp FCDocument\FCDGeometrySpline.cpp FCDocument\FCDMaterial.cpp FCDocument\FCDEffect.cpp FCDocument\FCDEffectCode.cpp FCDocument\FCDEffectParameter.cpp FCDocument\FCDEffectParameterFactory.cpp FCDocument\FCDEffectParameterSampler.cpp FCDocument\FCDEffectParameterSurface.cpp FCDocument\FCDEffectPass.cpp FCDocument\FCDEffectPassShader.cpp FCDocument\FCDEffectPassState.cpp FCDocument\FCDEffectProfile.cpp FCDocument\FCDEffectProfileFX.cpp FCDocument\FCDEffectStandard.cpp FCDocument\FCDEffectTechnique.cpp FCDocument\FCDEffectTools.cpp FCDocument\FCDImage.cpp FCDocument\FCDTexture.cpp FCDocument\FCDController.cpp FCDocument\FCDControllerTools.cpp FCDocument\FCDMorphController.cpp FCDocument\FCDSkinController.cpp FCDocument\FCDCamera.cpp FCDocument\FCDLight.cpp FCDocument\FCDLightTools.cpp FCDocument\FCDEmitter.cpp FCDocument\FCDEmitterObject.cpp FCDocument\FCDEmitterParticle.cpp FCDocument\FCDParticleModifier.cpp FCDocument\FCDForceDeflector.cpp FCDocument\FCDForceDrag.cpp FCDocument\FCDForceField.cpp FCDocument\FCDForceGravity.cpp FCDocument\FCDForcePBomb.cpp FCDocument\FCDForceWind.cpp FCDocument\FCDAsset.cpp FCDocument\FCDEntityReference.cpp FCDocument\FCDocument.cpp FCDocument\FCDocumentTools.cpp FCDocument\FCDVersion.cpp FCDocument\FCDExtra.cpp FCDocument\FCDExternalReferenceManager.cpp FCDocument\FCDPlaceHolder.cpp FCDocument\FCDPhysicsAnalyticalGeometry.cpp FCDocument\FCDPhysicsMaterial.cpp FCDocument\FCDPhysicsModel.cpp FCDocument\FCDPhysicsRigidBody.cpp FCDocument\FCDPhysicsRigidConstraint.cpp FCDocument\FCDPhysicsScene.cpp FCDocument\FCDPhysicsShape.cpp FCDocument\FCDPhysicsRigidBodyParameters.cpp FCDocument\FCDEntity.cpp FCDocument\FCDSceneNode.cpp FCDocument\FCDSceneNodeIterator.cpp FCDocument\FCDSceneNodeTools.cpp FCDocument\FCDTargetedEntity.cpp FCDocument\FCDTransform.cpp FCDocument\FCDObject.cpp FCDocument\FCDObjectWithId.cpp FCollada.cpp FColladaPlugin.cpp DLLEntry.cpp
+         FMAllocator.cpp
+         FMArrayTest.cpp
+         FMTreeTest.cpp
+         FMColor.cpp
+         FMInterpolation.cpp
+         FMRandom.cpp
+         FMVector3.cpp
+         FMVolume.cpp
+         FMAngleAxis.cpp
+         FMLookAt.cpp
+         FMSkew.cpp
+         FMMatrix33.cpp
+         FMMatrix44.cpp
+         FMQuaternion.cpp
+         FMQuaternionTest.cpp
+         FUDaeEnum.cpp
+         FUUri.cpp
+         FUCrc32.cpp
+         FUCrc32Test.cpp
+         FUAssert.cpp
+         Generating Code...
+         Compiling...
+         FUDebug.cpp
+         FUTestBed.cpp
+         FUPluginManager.cpp
+         FUFile.cpp
+         FUFileManager.cpp
+         FUFileManagerTest.cpp
+         FULogFile.cpp
+         FUParameter.cpp
+         FUEventTest.cpp
+         FUFunctorTest.cpp
+         FUObject.cpp
+         FUObjectTest.cpp
+         FUObjectType.cpp
+         FUParameterizable.cpp
+         FUTracker.cpp
+         FUStringBuilder.cpp
+         FUStringBuilderTest.cpp
+         FUStringConversion.cpp
+         FUStringConversionTest.cpp
+         FUStringTest.cpp
+         Generating Code...
+         Compiling...
+         FUUniqueStringMap.cpp
+         FUUniqueStringMapTest.cpp
+         FUBoundingBox.cpp
+         FUBoundingSphere.cpp
+         FUBoundingTest.cpp
+         FUDateTime.cpp
+         FUError.cpp
+         FUErrorLog.cpp
+         FUXmlDocument.cpp
+         FUXmlParser.cpp
+         FUXmlWriter.cpp
+         FUBase64.cpp
+         FUCriticalSection.cpp
+         FUSemaphore.cpp
+         FUSynchronizableObject.cpp
+         FUThread.cpp
+         FCDControllerInstance.cpp
+         FCDEmitterInstance.cpp
+         FCDEntityInstance.cpp
+         FCDGeometryInstance.cpp
+         Generating Code...
+         Compiling...
+         FCDMaterialInstance.cpp
+         FCDPhysicsForceFieldInstance.cpp
+         FCDPhysicsModelInstance.cpp
+         FCDPhysicsRigidBodyInstance.cpp
+         FCDPhysicsRigidConstraintInstance.cpp
+         FCDLibrary.cpp
+         FCDAnimation.cpp
+         FCDAnimationChannel.cpp
+         FCDAnimationClip.cpp
+         FCDAnimationClipTools.cpp
+         FCDAnimationCurve.cpp
+         FCDAnimationCurveTools.cpp
+         FCDAnimationKey.cpp
+         FCDAnimationMultiCurve.cpp
+         FCDAnimated.cpp
+         FCDParameterAnimatable.cpp
+         FCDGeometry.cpp
+         FCDGeometryMesh.cpp
+         FCDGeometryNURBSSurface.cpp
+         FCDGeometryPolygons.cpp
+         Generating Code...
+         Compiling...
+         FCDGeometryPolygonsInput.cpp
+         FCDGeometryPolygonsTools.cpp
+         FCDGeometrySource.cpp
+         FCDGeometrySpline.cpp
+         FCDMaterial.cpp
+         FCDEffect.cpp
+         FCDEffectCode.cpp
+         FCDEffectParameter.cpp
+         FCDEffectParameterFactory.cpp
+         FCDEffectParameterSampler.cpp
+         FCDEffectParameterSurface.cpp
+         FCDEffectPass.cpp
+         FCDEffectPassShader.cpp
+         FCDEffectPassState.cpp
+         FCDEffectProfile.cpp
+         FCDEffectProfileFX.cpp
+         FCDEffectStandard.cpp
+         FCDEffectTechnique.cpp
+         FCDEffectTools.cpp
+         FCDImage.cpp
+         Generating Code...
+         Compiling...
+         FCDTexture.cpp
+         FCDController.cpp
+         FCDControllerTools.cpp
+         FCDMorphController.cpp
+         FCDSkinController.cpp
+         FCDCamera.cpp
+         FCDLight.cpp
+         FCDLightTools.cpp
+         FCDEmitter.cpp
+         FCDEmitterObject.cpp
+         FCDEmitterParticle.cpp
+         FCDParticleModifier.cpp
+         FCDForceDeflector.cpp
+         FCDForceDrag.cpp
+         FCDForceField.cpp
+         FCDForceGravity.cpp
+         FCDForcePBomb.cpp
+         FCDForceWind.cpp
+         FCDAsset.cpp
+         FCDEntityReference.cpp
+         Generating Code...
+         Compiling...
+         FCDocument.cpp
+         FCDocumentTools.cpp
+         FCDVersion.cpp
+         FCDExtra.cpp
+         FCDExternalReferenceManager.cpp
+         FCDPlaceHolder.cpp
+         FCDPhysicsAnalyticalGeometry.cpp
+         FCDPhysicsMaterial.cpp
+         FCDPhysicsModel.cpp
+         FCDPhysicsRigidBody.cpp
+         FCDPhysicsRigidConstraint.cpp
+         FCDPhysicsScene.cpp
+         FCDPhysicsShape.cpp
+         FCDPhysicsRigidBodyParameters.cpp
+         FCDEntity.cpp
+         FCDSceneNode.cpp
+         FCDSceneNodeIterator.cpp
+         FCDSceneNodeTools.cpp
+         FCDTargetedEntity.cpp
+         FCDTransform.cpp
+         Generating Code...
+         Compiling...
+         FCDObject.cpp
+         FCDObjectWithId.cpp
+         FCollada.cpp
+         FColladaPlugin.cpp
+         DLLEntry.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\../lib/Fcollada.lib" /NOLOGO "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMAllocator.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMArrayTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMTreeTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMColor.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMInterpolation.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMRandom.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMVector3.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMVolume.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMAngleAxis.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMLookAt.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMSkew.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMMatrix33.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMMatrix44.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMQuaternion.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FMQuaternionTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\StdAfx.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUDaeEnum.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUUri.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUCrc32.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUCrc32Test.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUAssert.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUDebug.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUTestBed.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUPluginManager.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUFile.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUFileManager.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUFileManagerTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FULogFile.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUParameter.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUEventTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUFunctorTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUObject.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUObjectTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUObjectType.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUParameterizable.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUTracker.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUStringBuilder.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUStringBuilderTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUStringConversion.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUStringConversionTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUStringTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUUniqueStringMap.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUUniqueStringMapTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUBoundingBox.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUBoundingSphere.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUBoundingTest.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUDateTime.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUError.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUErrorLog.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUXmlDocument.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUXmlParser.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUXmlWriter.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUBase64.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUCriticalSection.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUSemaphore.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUSynchronizableObject.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FUThread.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDControllerInstance.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEmitterInstance.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEntityInstance.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDGeometryInstance.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDMaterialInstance.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsForceFieldInstance.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsModelInstance.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsRigidBodyInstance.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsRigidConstraintInstance.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDLibrary.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAnimation.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAnimationChannel.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAnimationClip.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAnimationClipTools.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAnimationCurve.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAnimationCurveTools.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAnimationKey.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAnimationMultiCurve.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAnimated.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDParameterAnimatable.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDGeometry.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDGeometryMesh.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDGeometryNURBSSurface.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDGeometryPolygons.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDGeometryPolygonsInput.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDGeometryPolygonsTools.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDGeometrySource.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDGeometrySpline.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDMaterial.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffect.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectCode.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectParameter.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectParameterFactory.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectParameterSampler.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectParameterSurface.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectPass.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectPassShader.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectPassState.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectProfile.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectProfileFX.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectStandard.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectTechnique.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEffectTools.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDImage.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDTexture.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDController.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDControllerTools.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDMorphController.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDSkinController.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDCamera.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDLight.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDLightTools.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEmitter.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEmitterObject.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEmitterParticle.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDParticleModifier.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDForceDeflector.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDForceDrag.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDForceField.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDForceGravity.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDForcePBomb.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDForceWind.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDAsset.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEntityReference.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDocument.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDocumentTools.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDVersion.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDExtra.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDExternalReferenceManager.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPlaceHolder.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsAnalyticalGeometry.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsMaterial.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsModel.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsRigidBody.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsRigidConstraint.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsScene.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsShape.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDPhysicsRigidBodyParameters.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDEntity.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDSceneNode.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDSceneNodeIterator.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDSceneNodeTools.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDTargetedEntity.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDTransform.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDObject.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCDObjectWithId.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FCollada.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\FColladaPlugin.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output/Release Win32/FCollada/Intermediate\DLLEntry.obj"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FColladaPlugins\Output\Debug Win32\FArchiveXML\FArchiveXML.lib"
+         "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\Output\Debug Win32\LibXML\LibXML.lib" /MACHINE:X86 
+     1>LINK : fatal error LNK1181: cannot open input file 'C:\Users\wolfsonlab\Desktop\Concept3D\FColladaPlugins\Output\Debug Win32\FArchiveXML\FArchiveXML.lib'
+     1>Done Building Project "C:\Users\wolfsonlab\Desktop\Concept3D\FCollada\FCollada.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:02:05.00

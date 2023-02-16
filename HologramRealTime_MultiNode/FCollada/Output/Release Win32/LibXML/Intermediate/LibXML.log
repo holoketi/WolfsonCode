@@ -1,0 +1,17 @@
+﻿Build started 2012-06-28 오전 9:27:47.
+     1>Project "O:\wolfsonlab\FCollada\LibXML\LibXML.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "O:\wolfsonlab\FCollada\LibXML\../Output/Release Win32/LibXML/Intermediate\LibXML.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         LibXML.vcxproj -> O:\wolfsonlab\FCollada\LibXML\../../lib\LibXML.lib
+       FinalizeBuildStatus:
+         Deleting file "O:\wolfsonlab\FCollada\LibXML\../Output/Release Win32/LibXML/Intermediate\LibXML.unsuccessfulbuild".
+         Touching "O:\wolfsonlab\FCollada\LibXML\../Output/Release Win32/LibXML/Intermediate\LibXML.lastbuildstate".
+     1>Done Building Project "O:\wolfsonlab\FCollada\LibXML\LibXML.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15

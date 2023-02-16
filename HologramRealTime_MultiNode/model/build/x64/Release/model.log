@@ -1,0 +1,339 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  Animation.cpp
+  AnimationChannel.cpp
+  AnimationClip.cpp
+  AnimationCurve.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(314): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(315): warning C4244: '초기화 중': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(316): warning C4244: '초기화 중': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(321): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(322): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(353): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(354): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(359): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(360): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(363): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animationcurve.cpp(364): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  AnimationKey.cpp
+  AnimCharacter.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4311: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4302: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(117): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(194): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(242): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(243): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(244): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(129): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(140): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(157): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(236): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(370): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(378): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(392): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(400): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(415): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(430): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(538): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(550): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(565): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(576): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animcharacter.cpp(599): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  AnimTransform.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animtransform.cpp(44): warning C4244: '인수': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animtransform.cpp(75): warning C4244: '인수': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animtransform.cpp(75): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\animtransform.cpp(106): warning C4244: '인수': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColladaLoad.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4311: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4302: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(117): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(194): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(242): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(243): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\animcharacter.h(244): warning C4244: '=': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\external_include\il\il.h(447): warning C4005: 'DEPRECATED': 매크로 재정의
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\fcollada\futils\platforms.h(236): note: 'DEPRECATED'의 이전 정의를 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(118): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(119): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(120): warning C4267: '-=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(217): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(225): warning C4244: 'return': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(73): warning C4244: '인수': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(128): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(115): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 'swprintf' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(175): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(162): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 'swprintf' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(200): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(215): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(225): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(251): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(271): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(313): warning C4267: '+=': 'size_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(314): warning C4267: '+=': 'size_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(340): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(323): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 'swprintf' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(459): warning C4244: '인수': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(465): warning C4244: '인수': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(600): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(601): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(608): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(609): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(617): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(618): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(636): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(637): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(638): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(642): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(671): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(672): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(673): warning C4244: '인수': 'real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(675): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(733): warning C4267: '+=': 'size_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(734): warning C4267: '+=': 'size_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(757): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(743): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstdio.h(1822): note: 'swprintf' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(988): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1008): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1023): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1024): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1152): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1166): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1176): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1187): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1197): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1208): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\colladaload.cpp(1218): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  GFrame.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4311: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4302: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  GraphicsScene.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4311: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\gl.h(56): warning C4302: '형식 캐스트': 'void *'에서 'unsigned int'(으)로 잘립니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\graphicsscene.cpp(218): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\graphicsscene.cpp(561): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  ImportedModel.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(118): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(119): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(120): warning C4267: '-=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(217): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(225): warning C4244: 'return': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(107): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(117): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(118): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(119): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(120): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(121): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(122): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(126): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(127): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(133): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(134): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(135): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(136): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(137): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(138): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(141): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(142): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(147): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(148): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(149): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(150): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(151): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(152): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(155): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(156): warning C4244: '=': 'const real'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(222): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(223): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\importedmodel.cpp(226): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(208): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(207): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(61): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::size(void) const'에 대한 참조를 확인하십시오.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\matrix.h(28): note: 컴파일 중인 클래스 템플릿 인스턴스화 'graphics::vector<real>'에 대한 참조를 확인하세요.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(31): note: 클래스 템플릿 멤버 함수 'int graphics::vector<real>::a_size(void) const'을(를) 컴파일하고 있습니다.
+  c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\graphics\vector.h(110): note: 컴파일 중인 함수 템플릿 인스턴스화 'int graphics::vector<real>::a_size(void) const'에 대한 참조를 확인하십시오.
+  kernel.cpp
+  Matrix4.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(630): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(631): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(632): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(633): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(634): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(635): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(636): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(637): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(672): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(673): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(674): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(675): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(676): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(677): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(678): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(679): warning C4244: '=': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(686): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(691): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(695): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\matrix4.cpp(696): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MemManager.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(278): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(279): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(285): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(286): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(278): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 'itoa' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(284): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(285): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 'itoa' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(288): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(290): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(591): warning C4267: '초기화 중': 'size_t'에서 'UndoContainerId'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(634): warning C4267: '초기화 중': 'size_t'에서 'UndoContainerId'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(636): warning C4267: '인수': 'size_t'에서 'UndoContainerId'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\memmanager.cpp(641): warning C4267: 'return': 'size_t'에서 'UndoContainerId'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Quaternion.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\quaternion.cpp(91): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\quaternion.cpp(92): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\quaternion.cpp(93): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\quaternion.cpp(95): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\quaternion.cpp(96): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\quaternion.cpp(97): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\quaternion.cpp(99): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\quaternion.cpp(100): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\quaternion.cpp(101): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  rel_mem_manager.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(118): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(119): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(120): warning C4267: '-=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(217): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(225): warning C4244: 'return': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\rel_mem_manager.cpp(26): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\rel_mem_manager.cpp(130): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\rel_mem_manager.cpp(151): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\rel_mem_manager.cpp(152): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\rel_mem_manager.cpp(167): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sync_gpu_memory.cpp
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(118): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(119): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(120): warning C4267: '-=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(217): warning C4267: '=': 'size_t'에서 'FreeElement::SIZE_TYPE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\rel_mem_manager.h(225): warning C4244: 'return': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\sync_gpu_memory.cpp(26): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\sync_gpu_memory.cpp(42): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\keti-sparrow\documents\wolfsenlab_point\multinode3\hologramrealtime_multinode\model\src\sync_gpu_memory.cpp(57): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  model.vcxproj -> C:\Users\KETI-Sparrow\Documents\WolfsenLab_Point\MultiNode3\HologramRealTime_MultiNode\HologramInteractive\..\lib\model.lib

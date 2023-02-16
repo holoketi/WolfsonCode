@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+C:\Users\KETI-Sparrow\AppData\Local\QtMsBuild\qt_vars.targets(68,5): error : There's no Qt version assigned to project HologramInteractive.vcxproj for configuration Release/x64. Please assign a Qt installation in 'Qt Project Settings'.
